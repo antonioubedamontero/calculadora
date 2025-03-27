@@ -1,0 +1,8 @@
+#calculadora{
+    border: 1px solid black;
+}
+
+#visor{
+    border: 1px solid black;
+    background-color: lightgrey;
+}
